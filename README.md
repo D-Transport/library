@@ -14,6 +14,6 @@ Edit the configuration file ```config.properties```
 
 ## Test and Run
 
-Main class for terminal: ```DTransport```
+Main class for terminal: ```DTransport.java```
 
-Test class: ```TestClient```
+Test class: ```TestClient.java```
